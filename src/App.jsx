@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <h1>Me and Teresa's Project</h1>
+      <h2>Ragnar says hi</h2>
     </>
   );
 }
